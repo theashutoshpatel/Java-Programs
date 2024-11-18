@@ -8,6 +8,5 @@ class Largest{
         else
             System.out.println(b+" B is a largest Number");
         
-
     }
 }
